@@ -1,4 +1,4 @@
- # HJQRcode
+#HJQRcode
  
     欢迎使用HJQRCode！
     使用iOS源生的解码方式解析二维码，简单的流程在一个ViewController中实现，欢迎根据项目的需要随意修改代码！
