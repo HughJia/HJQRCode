@@ -4,7 +4,7 @@ import UIKit
 import AVFoundation
 
 // 2.声明代理
-class ViewController: UIViewController, AVCaptureMetadataOutputObjectsDelegate {
+class HJQRCodeController: UIViewController, AVCaptureMetadataOutputObjectsDelegate {
     
     // 3.声明变量
     var captureSession:AVCaptureSession?
